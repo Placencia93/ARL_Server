@@ -1,3 +1,5 @@
+Thanks to rkjc for server code for ARL_JAVA
+
 # Swarm Robots Communication Server
 REST API server used as means to exchange information for [Swarm Robot Project][1]
 
